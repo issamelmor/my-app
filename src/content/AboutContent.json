@@ -1,0 +1,26 @@
+{
+  "title": "Waarom glasvezel?",
+  "text": "Er zijn verschillende voordelen van glasvezelinternet ten opzichte van traditionele internetverbindingen, zoals..",
+  "section": [
+    {
+      "title": "Snelheid",
+      "content": "Hogere snelheden dan andere internetverbindingen. Dit zorgt voor sneller downloaden en uploaden van bestanden en video's.",
+      "icon": "speedometer.svg"
+    },
+    {
+      "title": "Betrouwbaarheid",
+      "content": "Minder last van storingen en onderbrekingen in de verbinding, waardoor je altijd verbonden blijft.",
+      "icon": "shield.svg"
+    },
+    {
+      "title": "Lagere latentie",
+      "content": "Lagere latentie, wat betekent dat de verbinding sneller reageert op jouw acties, zoals het openen van een website of het spelen van online games.",
+      "icon": "network.svg"
+    },
+    {
+      "title": "Toekomstbestendigheid",
+      "content": "Klaar voor de toekomst, omdat het hogere snelheden en meer bandbreedte kan bieden dan traditionele internetverbindingen.",
+      "icon": "zoom.svg"
+    }
+  ]
+}
